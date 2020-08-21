@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">sharedPrefs</string>
+    <string name="Enter_name" />
+    <string name="Button_id">Result</string>
+    <string name="ResultViewId" />
+
+</resources>
